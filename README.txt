@@ -1,9 +1,9 @@
 
 TITLE: 
-Hold - Fully Responsive Free HTML5 template
+PORTFOLIO
 
 AUTHOR:
-DESIGNED & DEVELOPED by FREEHTML5.co
+TANISHQ NAYAK
 
 Website: http://freehtml5.co/
 Twitter: http://twitter.com/fh5co
@@ -48,6 +48,5 @@ http://daneden.me/animate
 jQuery Waypoint
 https://github.com/imakewebthings/waypoints/blog/master/licenses.txt
 
-Demo Images:
-http://unsplash.com
+
 
